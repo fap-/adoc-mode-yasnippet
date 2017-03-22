@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: include another file
+# key: include
+# --
+
+include::${1:path}[]
+
+$0

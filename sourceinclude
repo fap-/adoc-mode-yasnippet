@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: include another file inside a source block
+# key: sourceinclude
+# --
+[source, ${1:language}]
+----
+include::${2:path}[]
+----
+$0
