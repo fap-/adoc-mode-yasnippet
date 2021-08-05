@@ -6,3 +6,12 @@ These snippets originate from the snippets as definied in the link:https://githu
 
 This project is <<LICENSE,licensed>> under the MIT license, in accordance to the
 project this is based on.
+
+== License
+
+This project is licensed under the https://github.com/fapdash/adoc-mode-yasnippet/blob/master/LICENSE[GPLv3 license].
+
+Copyright (c) 2016-2021 Nico Rikken and others
+
+Based on https://github.com/asciidoctor/atom-autocomplete-asciidoc/blob/master/snippets/language-asciidoc.cson, licensed under the https://github.com/asciidoctor/atom-autocomplete-asciidoc/blob/master/LICENSE.md[MIT license]. +
+Copyright (c) 2016 Fernandez Ludovic and others
